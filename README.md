@@ -1,4 +1,4 @@
-# Composable Commerce starter template with Nuxt, Shopify, and Storyblok
+# Composable Commerce with Nuxt, Shopify, and Storyblok
 
 ## Setup
 
