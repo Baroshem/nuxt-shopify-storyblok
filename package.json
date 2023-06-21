@@ -11,7 +11,7 @@
     "@nuxt/image-edge": "^1.0.0-27919678.2f5b64b",
     "@nuxtjs/apollo": "^5.0.0-alpha.5",
     "@nuxtjs/tailwindcss": "^6.3.1",
-    "nuxt": "^3.1.2"
+    "nuxt": "^3.4.3"
   },
   "dependencies": {
     "@storyblok/nuxt": "^5.1.0"
